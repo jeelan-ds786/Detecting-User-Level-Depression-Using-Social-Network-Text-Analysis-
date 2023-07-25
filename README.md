@@ -20,17 +20,37 @@ Depression detection using an individual's surrounding network.
 
 ## 3) Data Preprocessing 
 
+ * 田中くんと佐藤さんは、同じ高校に通うクラスメートでした。田中くんは優しくて気配り上手な男子で、佐藤さんは明るくて活発な女子でした。二人はすぐに意気投合し、親友になりました。
+
+田中くんは佐藤さんのことがずっと好きでした。佐藤さんは田中くんの優しさに惹かれていました。しかし、二人はなかなか恋人同士になれませんでした。
+
+ある日、田中くんは佐藤さんに告白しました。佐藤さんは田中くんの気持ちを受け入れてくれました。二人は恋人になり、とても幸せでした。[click here](2.Data_Preprocessing)..
+
 <hr>
 
 ## 4) Seven Model Implementation
 
+ * 田中くんと佐藤さんは、高校3年間、恋人として仲良く過ごしました。二人は一緒に学校に通い、一緒に遊び、一緒に勉強しました。二人はいつも一緒にいて、お互いに支え合って、成長していきました。
+
+ある日、田中くんは佐藤さんにプロポーズしました。佐藤さんは喜んでプロポーズを受け入れました。二人は結婚式を挙げ、幸せな家庭を築きました。[click here](3.Seven_Machine_Learning_Model_Implementation) ..
+
 <hr>
 
-## 5) Intentional Model
+## 5) Intentional Model 
+
+別れの時 田中くんと佐藤さんは、結婚して5年後、田中くんが海外に転勤することになりました。佐藤さんは仕事が忙しく、一緒に海外に行くことができませんでした。二人は遠距離恋愛をすることになりました。
+
+遠距離恋愛は大変でしたが、二人は互いに愛し合っていました。月に一度は会うようにしていました。二人は遠距離恋愛も上手くいっていました。[click here](5.Intentional_Model) ..
 
 <hr>
 
 ## 6) Path Approach
+
+結婚生活 田中くんと佐藤さんは、結婚して10年後、二人に子供ができました。子供は女の子で、名前はさくらとつけました。さくらは二人の宝物でした。
+
+田中くんと佐藤さんは、さくらを大切に育てました。さくらは元気で明るい子に育ちました。 田中くんと佐藤さんは、さくらの成長を見守りながら、幸せな結婚生活を送りました。
+
+おわりに 田中くんと佐藤さんは、50年連れ添って、幸せな人生を送りました。二人は老夫婦になっても、お互いに愛し合っていました。田中くんと佐藤さんの愛は、永遠に続きました。[click here](6.Path_Approach)..
 
 <hr>
 
@@ -39,7 +59,7 @@ Depression detection using an individual's surrounding network.
   * Tableau dashboards are highly interactive, allowing users to explore data in a variety of ways. Users can zoom in and out of data, filter data, and create custom visualizations. This makes it easy to find the insights you're looking for. Tableau dashboards are secure, with a variety of security features to protect your data. You can control who has access to your dashboards, and you can encrypt your data to keep it safe. Here we created a dashboard to analyze the Big5 traits among a network and a social metrics visualization dashboard [click here](Tableau_visualization)
 <hr>
 
-## Conclusion :
+## 8) Conclusion :
 
   * In order to give mental health professionals a tool for tracking depressive behaviors of those at risk for depression, the study offered a machine learning-based framework for depression diagnosis. The proposed framework integrates user intention models and social influence scores to improve the prediction of the performance of currently used depression detection techniques.
   * Without relying simply on questionnaires, the framework can determine users' mental states by considering both social-level and user-level data. This makes it a valuable tool for clinicians in supporting better depression detection and follow-up treatment plans. Status updates by Facebook users are first preprocessed.
@@ -47,18 +67,18 @@ Depression detection using an individual's surrounding network.
 
 
 <hr>
-<br><br>
 
 
-# Future Works :
+
+## 9) Future Works :
 
   * Future work will focus on enhancing our social influence scores by taking into account the user’s online status updates. We can explore the influence of friends further and possibly generate more accurate social influence scores by looking at the topic level for every user's status updates.Additionally, we only took into account one intention type per update state in this study. We will look into the possibility of representing an update status as the blend of intention types. This will provide fresh insight into the motivation behind user-posted status updates.
 
 <hr>
- <br><br>
 
 
-# Reference :
+
+## 10) Reference :
 
 * TITLE: Detecting user-level depression from social networks using big data Analytics
 * JOURNAL NAME: The International Journal of Information Management
@@ -66,10 +86,5 @@ Depression detection using an individual's surrounding network.
 * YEAR: 2020
 
 
-<hr><hr>
-
-
-
-# [1) Dataset ](Dataset)
 
 
