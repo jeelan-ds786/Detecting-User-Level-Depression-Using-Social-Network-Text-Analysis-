@@ -1,2 +1,59 @@
 # Detecting-User-Level-Depression-using-social-network-Text-Analysis-
-Depression detection using the individual's surrounding network.
+Depression detection using an individual's surrounding network.
+
+<hr>
+
+<br><br>
+
+# 1) Abstract :
+
+  * Recent research has suggested a link between heavy social media use and elevated depression. One of the most prevalent mental health issues in the world is depression. A doctor typically makes a diagnosis of depression based on patient surveys and self-reports regarding their mental health. These treatments depend heavily on the patient's mental state, and depressed people frequently resist getting help. People can communicate their sentiments and opinions with friends and family using social media. There is a chance to create new frameworks for detecting people at risk for depression given the abundance of data in social networks. This framework could also help institutions and medical professionals to understand the symptoms and behaviors of depression. With this in mind, we suggest a big data analytics approach for identifying depression in users of social networks. In addition to semantic and syntactic features, it focuses on useful qualities for modeling user intention. The underlying driving force behind a user's actions on a social network can be seen in their intent. The framework also models the impact of friends on a user's mental state. It is thought that the actions of the user's friends have an impact on them. We analyze the framework's performance using a sizable real-world dataset that we collected from Facebook, for identifying depression at the user level in social networks.
+
+<hr><hr>
+
+
+# 2) Dataset 
+
+  * [clickhere to read..](Dataset) 
+# 3) Data Processing 
+# 4) Seven Model Implementation
+# 5) Intentional Model
+# 6) Path Approach
+# 7) Tableau Visualization
+
+
+
+# Conclusion :
+
+  * In order to give mental health professionals a tool for tracking depressive behaviors of those at risk for depression, the study offered a machine learning-based framework for depression diagnosis. The proposed framework integrates user intention models and social influence scores to improve the prediction of the performance of currently used depression detection techniques.
+  * Without relying simply on questionnaires, the framework can determine users' mental states by considering both social-level and user-level data. This makes it a valuable tool for clinicians in supporting better depression detection and follow-up treatment plans. Status updates by Facebook users are first preprocessed.
+  * Then the preprocessed data are mapped to O C E A N traits.7 Machine Learning techniques: KNN, SVM, Random Forest, Baseline, Logistic Regression, Neural networks, and CART are implemented for the ‘my personality’ dataset. The statistical metrics for each model are compared and the results are analyzed. Intention models such as Shortest path and User intentional model are computed through network graphs and the influenced scores are calculated using speech acts. Statistical measures for the user intention model are visualized.
+
+
+<hr><hr>
+<br><br>
+
+
+# Future Works :
+
+  * Future work will focus on enhancing our social influence scores by taking into account the user’s online status updates. We can explore the influence of friends further and possibly generate more accurate social influence scores by looking at the topic level for every user's status updates.Additionally, we only took into account one intention type per update state in this study. We will look into the possibility of representing an update status as the blend of intention types. This will provide fresh insight into the motivation behind user-posted status updates.
+
+<hr><hr>
+ <br><br>
+
+
+# Reference :
+
+* TITLE: Detecting user-level depression from social networks using big data Analytics
+* JOURNAL NAME: The International Journal of Information Management
+* PUBLISHERS : Rhonda McEwen, Xingwei Yang, Morteza Zihayat, Liza Robee Ong
+* YEAR: 2020
+
+
+<hr><hr>
+
+
+
+# [1) Dataset ](Dataset)
+
+
