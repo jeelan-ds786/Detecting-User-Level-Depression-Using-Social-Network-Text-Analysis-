@@ -5,21 +5,20 @@ Depression detection using an individual's surrounding network.
 
 <br><br>
 
-# 1) Abstract :
+## 1) Abstract :
 
   * Recent research has suggested a link between heavy social media use and elevated depression. One of the most prevalent mental health issues in the world is depression. A doctor typically makes a diagnosis of depression based on patient surveys and self-reports regarding their mental health. These treatments depend heavily on the patient's mental state, and depressed people frequently resist getting help. People can communicate their sentiments and opinions with friends and family using social media. There is a chance to create new frameworks for detecting people at risk for depression given the abundance of data in social networks. This framework could also help institutions and medical professionals to understand the symptoms and behaviors of depression. With this in mind, we suggest a big data analytics approach for identifying depression in users of social networks. In addition to semantic and syntactic features, it focuses on useful qualities for modeling user intention. The underlying driving force behind a user's actions on a social network can be seen in their intent. The framework also models the impact of friends on a user's mental state. It is thought that the actions of the user's friends have an impact on them. We analyze the framework's performance using a sizable real-world dataset that we collected from Facebook, for identifying depression at the user level in social networks.
 
-<hr><hr>
+<hr>
 
 
-# 2) Dataset 
+## 2) Dataset [here](1.Dataset)
 
-  * [clickhere to read..](Dataset) 
-# 3) Data Processing 
-# 4) Seven Model Implementation
-# 5) Intentional Model
-# 6) Path Approach
-# 7) Tableau Visualization
+## 3) Data Processing 
+## 4) Seven Model Implementation
+## 5) Intentional Model
+## 6) Path Approach
+## 7) Tableau Visualization
 
 
 
