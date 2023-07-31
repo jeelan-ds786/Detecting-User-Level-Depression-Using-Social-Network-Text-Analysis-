@@ -1,4 +1,4 @@
-# Intention Model
+# Intentional Model
 
 
   * In our dataset, most of the annotated content belongs to three main acts: assertive, directive, and expressive. Therefore, we focus on predicting these three acts as they are the most common act types with respect to depressed users in the dataset. We randomly split our dataset by allocating 80% for our training set and 20% for our hold-out test set. On the training set, we used 10-fold cross-validation for all methods. We compare the performance of the four classifiers with a baseline classifier. The baseline classifier is designed using the existing text classification techniques.
