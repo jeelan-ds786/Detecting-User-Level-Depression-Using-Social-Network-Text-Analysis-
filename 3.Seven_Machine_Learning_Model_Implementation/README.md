@@ -10,6 +10,13 @@
 
 <br>
 
+
+![image](https://github.com/jeelan-ds786/Detecting-User-Level-Depression-Using-Social-Network-Text-Analysis-/assets/97782415/4fdf3f66-a4ea-48e6-a288-4156e112617c)
+
+
+
+<br>
+
 ## Comparing Parameters :
 
   * `Using performance metrics`: This involves calculating a set of metrics, such as accuracy, precision, and recall, to measure the performance of each model.
