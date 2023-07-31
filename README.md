@@ -80,10 +80,13 @@ Depression detection using an individual's surrounding network.
 
 ## 10) Reference :
 
-* TITLE: Detecting user-level depression from social networks using big data Analytics
-* JOURNAL NAME: The International Journal of Information Management
-* PUBLISHERS : Rhonda McEwen, Xingwei Yang, Morteza Zihayat, Liza Robee Ong
-* YEAR: 2020
+[1] Yang, X., McEwen, R., Ong, L. R., & Zihayat, M. (2020). A big data analytics
+framework for detecting user-level depression from social networks.
+International Journal of Information Management, 54, 102141.
+
+[2] P. Adamopoulos, A. Ghose, V. Todri The impact of user personality traits on word
+of mouth: Text-mining social media platforms.Information Systems Research, 29 (3)
+(2018), pp. 612-640
 
 
 
