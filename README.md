@@ -39,9 +39,8 @@
 
 ## 5) Intentional Model 
 
-別れの時 田中くんと佐藤さんは、結婚して5年後、田中くんが海外に転勤することになりました。佐藤さんは仕事が忙しく、一緒に海外に行くことができませんでした。二人は遠距離恋愛をすることになりました。
-
-遠距離恋愛は大変でしたが、二人は互いに愛し合っていました。月に一度は会うようにしていました。二人は遠距離恋愛も上手くいっていました。[click here](5.Intentional_Model) ..
+*  In our dataset, most of the annotated content belongs to three main acts: assertive, directive, and expressive. Therefore, we focus on predicting these three acts as they are the most common act types with respect to depressed users in the dataset. We randomly split our dataset by allocating 80% for our training set and 20% for our hold-out test set. On the training set, we used 10-fold cross-validation for all methods. We compare the performance of the four classifiers with a baseline classifier. The baseline classifier is designed using the existing text classification techniques.We generated a Sample dataset to train the model, created 50 statements in each act and trained Machine Learning Model
+[click here](5.Intentional_Model) ..
 
 <hr>
 
@@ -53,7 +52,7 @@
 
 ## 7) Tableau Visualization
 
-  * Tableau dashboards are highly interactive, allowing users to explore data in a variety of ways. Users can zoom in and out of data, filter data, and create custom visualizations. This makes it easy to find the insights you're looking for. Tableau dashboards are secure, with a variety of security features to protect your data. You can control who has access to your dashboards, and you can encrypt your data to keep it safe. Here we created a dashboard to analyze the Big5 traits among a network and a social metrics visualization dashboard [click here](Tableau_visualization)
+  * Tableau dashboards are highly interactive, allowing users to explore data in a variety of ways. Users can zoom in and out of data, filter data, and create custom visualizations. This makes it easy to find the insights you're looking for. Tableau dashboards are secure, with a variety of security features to protect your data. You can control who has access to your dashboards, and you can encrypt your data to keep it safe. Here we created a dashboard to analyze the Big5 traits among a network and a social metrics visualization dashboard [click here](Tableau_visualization) ..
     
 <hr>
 
