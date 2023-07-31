@@ -20,11 +20,11 @@ Depression detection using an individual's surrounding network.
 
 ## 3) Data Preprocessing 
 
- * 田中くんと佐藤さんは、同じ高校に通うクラスメートでした。田中くんは優しくて気配り上手な男子で、佐藤さんは明るくて活発な女子でした。二人はすぐに意気投合し、親友になりました。
+ * Data preprocessing is an important step in the data mining process that involves cleaning and transforming raw data to make it suitable for analysis. Some common steps in data preprocessing include:
 
-田中くんは佐藤さんのことがずっと好きでした。佐藤さんは田中くんの優しさに惹かれていました。しかし、二人はなかなか恋人同士になれませんでした。
+  `Data Cleaning` : This involves identifying and correcting errors or inconsistencies in the data, such as missing values, outliers, and duplicates. Various techniques can be used for data cleaning, such as imputation, removal, and transformation.
 
-ある日、田中くんは佐藤さんに告白しました。佐藤さんは田中くんの気持ちを受け入れてくれました。二人は恋人になり、とても幸せでした。[click here](2.Data_Preprocessing)..
+  `Data Integration` : This involves combining data from multiple sources to create a unified dataset. Data integration can be challenging as it requires handling data with different formats, structures, and semantics. Techniques such as record linkage and data fusion can be used for data integration.。[click here](2.Data_Preprocessing)..
 
 <hr>
 
