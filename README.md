@@ -1,9 +1,12 @@
 # Detecting-User-Level-Depression-using-social-network-Text-Analysis-
-Depression detection using an individual's surrounding network.
+
+
+
+## <center>  Depression detection using an individual's surrounding network.
 
 <hr>
 
-<br><br>
+
 
 ## 1) Abstract :
 
@@ -22,17 +25,15 @@ Depression detection using an individual's surrounding network.
 
  * Data preprocessing is an important step in the data mining process that involves cleaning and transforming raw data to make it suitable for analysis. Some common steps in data preprocessing include:
 
-  `Data Cleaning` : This involves identifying and correcting errors or inconsistencies in the data, such as missing values, outliers, and duplicates. Various techniques can be used for data cleaning, such as imputation, removal, and transformation.
+ * `Data Cleaning` : This involves identifying and correcting errors or inconsistencies in the data, such as missing values, outliers, and duplicates. Various techniques can be used for data cleaning, such as imputation, removal, and transformation.
 
-  `Data Integration` : This involves combining data from multiple sources to create a unified dataset. Data integration can be challenging as it requires handling data with different formats, structures, and semantics. Techniques such as record linkage and data fusion can be used for data integration.。[click here](2.Data_Preprocessing)..
+ * `Data Integration` : This involves combining data from multiple sources to create a unified dataset. Data integration can be challenging as it requires handling data with different formats, structures, and semantics. Techniques such as record linkage and data fusion can be used for data integration.。[click here](2.Data_Preprocessing)..
 
 <hr>
 
 ## 4) Seven Model Implementation
 
- * 田中くんと佐藤さんは、高校3年間、恋人として仲良く過ごしました。二人は一緒に学校に通い、一緒に遊び、一緒に勉強しました。二人はいつも一緒にいて、お互いに支え合って、成長していきました。
-
-ある日、田中くんは佐藤さんにプロポーズしました。佐藤さんは喜んでプロポーズを受け入れました。二人は結婚式を挙げ、幸せな家庭を築きました。[click here](3.Seven_Machine_Learning_Model_Implementation) ..
+ * Machine learning model comparison is the process of evaluating the performance of different models on a given dataset. This can be done to identify the model that best meets the specific needs of the problem at hand. There are a number of factors that can be considered when comparing machine learning models, including accuracy, speed, complexity, and interpretability. [click here](3.Seven_Machine_Learning_Model_Implementation) ..
 
 <hr>
 
@@ -57,6 +58,7 @@ Depression detection using an individual's surrounding network.
 ## 7) Tableau Visualization
 
   * Tableau dashboards are highly interactive, allowing users to explore data in a variety of ways. Users can zoom in and out of data, filter data, and create custom visualizations. This makes it easy to find the insights you're looking for. Tableau dashboards are secure, with a variety of security features to protect your data. You can control who has access to your dashboards, and you can encrypt your data to keep it safe. Here we created a dashboard to analyze the Big5 traits among a network and a social metrics visualization dashboard [click here](Tableau_visualization)
+    
 <hr>
 
 ## 8) Conclusion :
