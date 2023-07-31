@@ -47,11 +47,7 @@
 
 ## 6) Path Approach
 
-結婚生活 田中くんと佐藤さんは、結婚して10年後、二人に子供ができました。子供は女の子で、名前はさくらとつけました。さくらは二人の宝物でした。
-
-田中くんと佐藤さんは、さくらを大切に育てました。さくらは元気で明るい子に育ちました。 田中くんと佐藤さんは、さくらの成長を見守りながら、幸せな結婚生活を送りました。
-
-おわりに 田中くんと佐藤さんは、50年連れ添って、幸せな人生を送りました。二人は老夫婦になっても、お互いに愛し合っていました。田中くんと佐藤さんの愛は、永遠に続きました。[click here](6.Path_Approach)..
+ * Estimate the friend's influence based on the intention model. We argue that a negative mood is transferable from one person to another during social interactions. Therefore, the negative status updates and the intention behind them may spread through friendship networks resulting in a higher occurrence of similarly negative status updates. Since the proposed intention model represents the true motivation of individuals, the more similar the intention models of two nearby users are, the more likely one user gets affected by the other one.。[click here](6.Path_Approach)..
 
 <hr>
 
